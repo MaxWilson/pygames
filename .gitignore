@@ -1,6 +1,8 @@
 # Python byte-code
 *.py[co]
 obj
+bin
+fable_modules
 
 # virutalenv directories
 /env*/
@@ -17,3 +19,5 @@ obj
 *.egg-info/
 
 .DS_Store
+
+.fake
