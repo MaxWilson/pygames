@@ -1,0 +1,1 @@
+dotnet fable --lang Python && python3 Snake.py
